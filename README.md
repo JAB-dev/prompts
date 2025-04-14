@@ -382,11 +382,8 @@ globs: {which paths}
 ## {Rule} : Example
 ```
 ...
-```
 
-````
 
-`````
 
 </details>
 
