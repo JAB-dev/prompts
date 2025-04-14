@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD033 -->
 # AI-Driven Dev {Prompts}
 
 > A collection of prompts for developers with built-in software to call any prompt, from any application.
